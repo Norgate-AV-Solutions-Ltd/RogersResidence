@@ -1,0 +1,27 @@
+[Entries]
+232=rs232 5,0,n,8,1,n,y
+QMMASTER=tcp 192.168.0.105
+MC3=tcp 192.168.0.100
+USB=usb
+Sonnex=tcp 192.168.0.101
+9L=tcp 192.168.0.111
+QMSTUDY=tcp 192.168.0.106
+QMLIVING=tcp 192.168.0.107
+QMFAMILY=tcp 192.168.0.108
+3MD=tcp 192.168.0.110
+
+[Settings]
+DefaultEntry=
+
+[Comments]
+232=
+QMMASTER=
+MC3=
+USB=
+Sonnex=
+9L=
+QMSTUDY=
+QMLIVING=
+QMFAMILY=
+3MD=
+

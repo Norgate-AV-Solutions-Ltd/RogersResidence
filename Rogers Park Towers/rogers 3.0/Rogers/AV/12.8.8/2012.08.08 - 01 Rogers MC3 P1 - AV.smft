@@ -1,0 +1,13 @@
+<Device Model="MC3" Name="MC3.">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="C2N-TAMFMXM" DeviceId="90"/>
+   </Network>
+   <Network Type="Ethernet" Id="02">
+      <Device Model="QM-RMC Remote Ethernet Processing" DeviceId="31" Name="[FAMILY]"/>
+      <Device Model="QM-RMC Remote Ethernet Processing" DeviceId="32" Name="[LIVING]"/>
+      <Device Model="QM-RMC Remote Ethernet Processing" DeviceId="33" Name="[STUDY]"/>
+      <Device Model="QM-RMC Remote Ethernet Processing" DeviceId="34" Name="[MASTER]"/>
+      <Device Model="SWAMP" DeviceId="40" Name="SWAMP-24x8 (Ethernet)."/>
+   </Network>
+   <Network Type="RF" Id="03"/>
+</Device>

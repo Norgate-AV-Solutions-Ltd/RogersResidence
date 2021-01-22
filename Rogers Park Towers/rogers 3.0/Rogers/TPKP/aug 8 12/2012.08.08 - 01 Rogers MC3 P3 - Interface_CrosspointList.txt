@@ -1,0 +1,96 @@
+Crosspoint listing for C:\Users\Patrick Liedtke\Documents\Crestron Client Programs\Clients\Rogers\TPKP\aug 8 12\2012.08.08 - 01 Rogers MC3 P3 - Interface.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-1 in macro S-2.3.2.1.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.2.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          2
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.3.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          3
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.4.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          4
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.5.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          5
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.6.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          6
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.7.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          7
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.8.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          8
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.9.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          9
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                          
+S-1 in macro S-2.3.2.10.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           10
+Programs\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                         
+S-1 in macro S-2.3.2.11.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           11
+Programs\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                         
+S-1 in macro S-2.3.2.12.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           12
+Programs\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                         
+S-1 in macro S-2.3.2.13.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           13
+Programs\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                         
+S-1 in macro S-2.3.2.14.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           14
+Programs\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                         
+S-1 in macro S-2.3.2.15.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           15
+Programs\Clients\Rogers\TPKP\aug 8 12\Source Control Device xPt. v1.05.umc)                         
+S-2 in macro S-2.3.1.2.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1001
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                          
+S-2 in macro S-2.3.1.3.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1002
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                          
+S-2 in macro S-2.3.1.4.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1003
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                          
+S-2 in macro S-2.3.1.5.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1004
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                          
+S-2 in macro S-2.3.1.6.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1005
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                          
+S-2 in macro S-2.3.1.7.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1006
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                          
+S-2 in macro S-2.3.1.8.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1007
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                          
+S-2 in macro S-2.3.1.9.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1008
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                          
+S-2 in macro S-2.3.1.10.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           1009
+Programs\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                         
+S-2 in macro S-2.3.1.11.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           1010
+Programs\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                         
+S-2 in macro S-2.3.1.12.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           1011
+Programs\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                         
+S-2 in macro S-2.3.1.13.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           1012
+Programs\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                         
+S-2 in macro S-2.3.1.14.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           1013
+Programs\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                         
+S-2 in macro S-2.3.1.15.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           1014
+Programs\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                         
+S-2 in macro S-2.3.1.16.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           1015
+Programs\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                         
+S-2 in macro S-2.3.1.17.1 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client           1016
+Programs\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Device xPt v1.00.umc)                         
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+S-2 in macro S-3.1.1.1.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1001
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Interface xPt v1.00.umc)                       
+S-2 in macro S-3.1.2.1.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1002
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Interface xPt v1.00.umc)                       
+S-2 in macro S-3.1.3.1.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1003
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Interface xPt v1.00.umc)                       
+S-2 in macro S-3.1.4.1.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1004
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Interface xPt v1.00.umc)                       
+S-2 in macro S-3.1.5.1.3 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1005
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Interface xPt v1.00.umc)                       
+S-2 in macro S-3.1.7.1.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1006
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Interface xPt v1.00.umc)                       
+S-2 in macro S-3.1.8.1.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          1007
+rograms\Clients\Rogers\TPKP\aug 8 12\AV Zone Control Interface xPt v1.00.umc)                       
+S-2 in macro S-3.1.1.2.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          10001
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Interface xPt. v1.05.umc)                       
+S-2 in macro S-3.1.2.2.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          10002
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Interface xPt. v1.05.umc)                       
+S-2 in macro S-3.1.3.2.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          10003
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Interface xPt. v1.05.umc)                       
+S-2 in macro S-3.1.4.2.2 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          10004
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Interface xPt. v1.05.umc)                       
+S-2 in macro S-3.1.5.2.3 (Module File C:\Users\Patrick Liedtke\Documents\Crestron Client P          10005
+rograms\Clients\Rogers\TPKP\aug 8 12\Source Control Interface xPt. v1.05.umc)                       
+

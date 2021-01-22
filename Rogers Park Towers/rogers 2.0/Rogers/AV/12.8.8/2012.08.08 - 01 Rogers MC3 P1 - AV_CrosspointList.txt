@@ -1,0 +1,35 @@
+Crosspoint listing for C:\Users\Mike\Desktop\Rogers Park Towers\rogers 2.0\Rogers\AV\12.8.8\2012.08.08 - 01 Rogers MC3 P1 - AV.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-9.2 in macro S-2.1.1.1.4.2 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55501
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.4.3 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55502
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.4.4 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55503
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.4.5 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55504
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.4.6 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55505
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.4.7 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55506
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.4.8 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55507
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.4.9 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55508
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.5.2 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55509
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.5.3 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55510
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.5.4 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55511
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+S-9.2 in macro S-2.1.1.1.5.5 (Module File C:\Users\Mike\Desktop\Rogers Park Towers\rogers           55512
+2.0\Rogers\AV\12.8.8\SWAMP Audio Zone v1.00.umc)                                                    
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+No symbols of this type found in the program
+

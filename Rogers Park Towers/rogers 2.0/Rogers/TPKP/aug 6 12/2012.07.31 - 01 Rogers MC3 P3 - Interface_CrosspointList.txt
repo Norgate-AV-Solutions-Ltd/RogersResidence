@@ -1,0 +1,86 @@
+Crosspoint listing for C:\Program Files\Crestron\Simpl\Programs\Clients\Rogers\TPKP\aug 6 12\2012.07.31 - 01 Rogers MC3 P3 - Interface.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-1 in macro S-2.3.2.1.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.2.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          2
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.3.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          3
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.4.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          4
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.5.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          5
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.6.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          6
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.7.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          7
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.8.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          8
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.9.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          9
+ers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                             
+S-1 in macro S-2.3.2.10.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          10
+gers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                            
+S-1 in macro S-2.3.2.11.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          11
+gers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                            
+S-1 in macro S-2.3.2.12.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          12
+gers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                            
+S-1 in macro S-2.3.2.13.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          13
+gers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                            
+S-1 in macro S-2.3.2.14.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          14
+gers\TPKP\aug 6 12\Source Control Device xPt. v1.05.umc)                                            
+S-2 in macro S-2.3.1.2.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1001
+ers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                             
+S-2 in macro S-2.3.1.3.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1002
+ers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                             
+S-2 in macro S-2.3.1.4.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1003
+ers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                             
+S-2 in macro S-2.3.1.5.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1004
+ers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                             
+S-2 in macro S-2.3.1.6.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1005
+ers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                             
+S-2 in macro S-2.3.1.7.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1006
+ers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                             
+S-2 in macro S-2.3.1.8.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1007
+ers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                             
+S-2 in macro S-2.3.1.9.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1008
+ers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                             
+S-2 in macro S-2.3.1.10.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          1009
+gers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                            
+S-2 in macro S-2.3.1.11.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          1010
+gers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                            
+S-2 in macro S-2.3.1.12.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          1011
+gers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                            
+S-2 in macro S-2.3.1.13.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          1012
+gers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                            
+S-2 in macro S-2.3.1.14.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          1013
+gers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                            
+S-2 in macro S-2.3.1.15.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          1014
+gers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                            
+S-2 in macro S-2.3.1.16.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          1015
+gers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                            
+S-2 in macro S-2.3.1.17.1 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Ro          1016
+gers\TPKP\aug 6 12\AV Zone Control Device xPt v1.00.umc)                                            
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+S-2 in macro S-3.1.1.1.2 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1001
+ers\TPKP\aug 6 12\AV Zone Control Interface xPt v1.00.umc)                                          
+S-2 in macro S-3.1.2.1.2 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1002
+ers\TPKP\aug 6 12\AV Zone Control Interface xPt v1.00.umc)                                          
+S-2 in macro S-3.1.3.1.2 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1003
+ers\TPKP\aug 6 12\AV Zone Control Interface xPt v1.00.umc)                                          
+S-2 in macro S-3.1.4.1.2 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          1004
+ers\TPKP\aug 6 12\AV Zone Control Interface xPt v1.00.umc)                                          
+S-2 in macro S-3.1.1.2.2 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          10001
+ers\TPKP\aug 6 12\Source Control Interface xPt. v1.05.umc)                                          
+S-2 in macro S-3.1.2.2.2 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          10002
+ers\TPKP\aug 6 12\Source Control Interface xPt. v1.05.umc)                                          
+S-2 in macro S-3.1.3.2.2 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          10003
+ers\TPKP\aug 6 12\Source Control Interface xPt. v1.05.umc)                                          
+S-2 in macro S-3.1.4.2.2 (Module File C:\Program Files\Crestron\Simpl\Programs\Clients\Rog          10004
+ers\TPKP\aug 6 12\Source Control Interface xPt. v1.05.umc)                                          
+
